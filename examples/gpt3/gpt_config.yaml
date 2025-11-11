@@ -271,7 +271,7 @@ train_samples: 268554688
 dataloader_type: null
 
 #profile:
-profile: False
+profile: True
 profile_ranks: [0]
 profile_step_end: 12
 profile_step_start: 10
